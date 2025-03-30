@@ -1,5 +1,5 @@
 {
-  "proxy": "https://stockmixer-optimal-portfolio.onrender.com",
+  "proxy": "https://stockmixerserver.onrender.com",
   "name": "portfolio-optimizer",
   "version": "0.1.0",
   "private": true,
